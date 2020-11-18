@@ -105,3 +105,6 @@ dist
 
 # mac ds store
 .DS_Store
+
+hidden/
+.idea/
