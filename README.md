@@ -1,2 +1,2 @@
-# csv-datatable-papaparse
+# CSV - DataTable - Papaparse
 Adjust CSV using DataTable &amp; PapaParse
